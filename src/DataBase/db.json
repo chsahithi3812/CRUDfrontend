@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Dileep",
+      "username": "dileepshylaja",
+      "email": "dileep@gmail.com",
+      "phone": "9346601162",
+      "interns": "na",
+      "projects": "najj",
+      "cgpa": "93",
+      "course": "inter",
+      "college": "zilla parishad",
+      "id": 1
+    },
+    {
+      "name": "karthik",
+      "username": "kar",
+      "email": "ksharma@gmail.com",
+      "phone": "9959815266",
+      "interns": "infuex",
+      "projects": "sharepic",
+      "cgpa": "7.89",
+      "course": "imt",
+      "college": "abv",
+      "id": 2
+    },
+    {
+      "name": "manu",
+      "username": "ammu",
+      "email": "manu@gmail.com",
+      "phone": "9515792755",
+      "interns": "na",
+      "projects": "na",
+      "cgpa": "90",
+      "course": "mbbs",
+      "college": "osmaina",
+      "id": 3
+    }
+  ]
+}
